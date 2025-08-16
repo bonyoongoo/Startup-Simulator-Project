@@ -1,0 +1,13 @@
+{
+    "budget": 3000,
+    "userBase": 50,
+    "features": [
+      {
+        "name": "Dark Mode",
+        "cost": 500,
+        "estimatedTime": 3,
+        "userImpact": 100,
+        "completed": true
+      }
+    ]
+  }

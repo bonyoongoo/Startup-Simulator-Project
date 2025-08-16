@@ -1,0 +1,22 @@
+{
+    "features": [
+        {
+            "name": "Chatbot", 
+            "cost": 3000, 
+            "userImpact": 30,
+            "estimatedTime": 10,
+            "completed": false
+        },
+        {
+            "name": "Analytics Dashboard",
+            "cost": 4000,
+            "userImpact": 50, 
+            "estimatedTime": 15,
+            "completed": true
+        }
+
+    ],
+    "budget": 2500,
+    "userBase": 0
+    
+}

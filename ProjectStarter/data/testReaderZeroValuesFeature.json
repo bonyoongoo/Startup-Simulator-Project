@@ -1,0 +1,13 @@
+{
+    "budget": 1000,
+    "userBase": 0,
+    "features": [
+      {
+        "name": "Zero Feature",
+        "cost": 0,
+        "estimatedTime": 0,
+        "userImpact": 0,
+        "completed": false
+      }
+    ]
+  } 

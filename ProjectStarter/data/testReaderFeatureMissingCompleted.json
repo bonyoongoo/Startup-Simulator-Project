@@ -1,0 +1,12 @@
+{
+    "budget": 5000,
+    "userBase": 100,
+    "features": [
+      {
+        "name": "New UI",
+        "cost": 1000,
+        "estimatedTime": 7,
+        "userImpact": 200
+      }
+    ]
+  }

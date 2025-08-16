@@ -1,0 +1,11 @@
+{
+    "features": [{
+        "userImpact": 0,
+        "estimatedTime": 0,
+        "cost": 0,
+        "name": "Empty",
+        "completed": false
+    }],
+    "userBase": 0,
+    "budget": 0
+}
